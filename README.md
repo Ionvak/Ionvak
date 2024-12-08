@@ -12,6 +12,6 @@ LinkedIn 💼: https://www.linkedin.com/in/mahmoud-el-shekh-014344232
 Mobile number 📱: +48 667676361
 Email 📧: mmahmoudelshekhali@gmail.com
 instagram 🖼️: @Mahmoudelshekh.
-Whatsapp ✉: +966 530777807
+Whatsapp ✉: +48 667676361
 Telegram 📫: +48 667676361
 Facebook 📘: https://www.facebook.com/profile.php?id=61563303282203
