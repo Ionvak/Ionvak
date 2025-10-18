@@ -1,11 +1,8 @@
 # Hi there 👋
-Welcome to my profile. I'm currently a student in the Warsaw university of technology, studying for a Bachelors in computer science: specialization in computer systems and networks, and this is my personal profile which I use to store all projects and other collaborative efforts which I have either independently done or simply participated in for future reference (you're welcome to have a look around!). 
+Welcome to my profile! This is what I use to store all projects and other collaborative efforts which I have either independently done or simply participated in for future reference (you're welcome to have a look around!). 
 ***
 # Who am I? 🤔
-My name is Mahmoud Elshekh Ali. I'm a Palestinian student currently studying in Warsaw, Poland. I'm thoroughly interested in programming, computer and information science, computer engineering, mathematics, and the field of IT and tech in general. I hope to get into as much of this very vast and ever expanding field as possible in my personal and professional life, and I hope to meet as many people as I can in my journey. I consider myself to be very open and friendly, so please contact me if you have a desire to or if you have any questions. My hobbies include reading, writing, listening to music, and sightseeing.
-***
-# What's next? 🤷‍♂️
-I'm looking towards developing my professional career through any opportunities that present themselves. If you're willing to provide such opportunities, and what you've seen so far has interested you, please contact me through the following:
+My name is Mahmoud Elshekh Ali. I'm a Palestinian student currently studying in Warsaw, Poland. I'm thoroughly interested in programming, computer and information science, computer engineering, mathematics, and the field of IT and tech in general. My hobbies include reading, writing, listening to music, and sightseeing.
 ***
 # Contact 💬
 LinkedIn 💼: https://www.linkedin.com/in/mahmoud-el-shekh-014344232
